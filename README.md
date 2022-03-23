@@ -1,5 +1,5 @@
 # Dorks
-Here are some cool Dorks, as GHDB stopped publishing ours ;)
+Here are some cool unpublished Dorks (GHDB stopped posting since January 2022)
 
 site:notion.so + keyword
 
