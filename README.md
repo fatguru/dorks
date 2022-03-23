@@ -6,13 +6,10 @@
 
 | Dork          | Details       |
 | ------------- |:-------------:|
-| site:notion.so + keyword    | right-aligned |
+| site:notion.so + keyword    |  |
+| intitle:iDRAC* inurl:login.html    |  |
+| inurl:node_modules/ua-parser-js    | Vulnerable ua-parser-js search (bower.json shows the version) |
 
-site:notion.so + keyword
-
-intitle:iDRAC* inurl:login.html
-
-inurl:node_modules/ua-parser-js
 
 *Author: Javier Bernardo*
 
