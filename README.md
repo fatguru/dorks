@@ -1,6 +1,6 @@
 # Dorks
 #### Here are some cool unpublished Dorks 
-(GHDB stopped posting since January 2022)
+*(GHDB stopped posting since January 2022)*
 
 ------------------------------------------------------------------------------
 
