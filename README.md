@@ -8,6 +8,7 @@
 | ------------- |-------------|
 | site:notion.so + keyword    | Juicy Information |
 | site:notes.io + keyword     | Juicy Information |
+| site:hackmd.io + keyword    | Juicy Information |
 | inurl:app.powerbi.com   | Exposed PowerBi Panels |
 | intitle:iDRAC* inurl:login.html    | Dell iDRAC Login pages |
 | inurl:node_modules/ua-parser-js    | Vulnerable ua-parser-js search (bower.json shows the version) |
