@@ -8,7 +8,7 @@ site:notion.so + keyword
 
 intitle:iDRAC* inurl:login.html
 
-inurl:node_modules/ua-parser-js   > Vulnerable ua-parser-js search, bower.json shows the version
+inurl:node_modules/ua-parser-js                      _(Vulnerable ua-parser-js search, bower.json shows the version)_
 
 *Author: Javier Bernardo*
 
