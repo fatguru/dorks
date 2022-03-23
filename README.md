@@ -7,7 +7,7 @@
 | Dork          | Details       |
 | ------------- |-------------|
 | site:notion.so + keyword    | Juicy Information |
-| intitle:iDRAC* inurl:login.html    | iDRAC Login pages |
+| intitle:iDRAC* inurl:login.html    | Dell iDRAC Login pages |
 | inurl:node_modules/ua-parser-js    | Vulnerable ua-parser-js search (bower.json shows the version) |
 
 
