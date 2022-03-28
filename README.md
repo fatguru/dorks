@@ -10,8 +10,8 @@
 | site:notes.io + keyword     | Juicy Information |
 | site:hackmd.io + keyword    | Juicy Information |
 | inurl:orgId=1  | Exposed Granafa Dashboards |
-| site:s3.amazonaws.com ext:keyword + keyword   | Exposed Files on Amazon S3 buckets |
-| site:blob.core.windows.net ext:[XLS,DOC,etc] + keyword   | Exposed Files on Azure Storage blobs |
+| site:s3.amazonaws.com ext:[xls, doc, etc] + keyword   | Exposed Files on Amazon S3 buckets |
+| site:blob.core.windows.net ext:[xls, doc, etc] + keyword   | Exposed Files on Azure Storage blobs |
 | inurl:app.powerbi.com   | Exposed PowerBi Panels |
 | intitle:iDRAC* inurl:login.html    | Dell iDRAC Login pages |
 | inurl:node_modules/ua-parser-js    | Vulnerable ua-parser-js search (bower.json shows the version) |
