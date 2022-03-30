@@ -23,7 +23,10 @@
 
 ------------------------------------------------------------------------------
 
-site:scribd.com + keyword
+
+| Dork          | Details       |
+| ------------- |-------------|
+| site:scribd.com + keyword    | Juicy Information |
 
 *Author: Gabriel Tarsia*
 
