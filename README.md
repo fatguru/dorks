@@ -20,6 +20,7 @@
 | inurl:auth/realms   | SSO Login pages |
 | inurl:nav_to.do  | Service Now Login Pages |
 | inurl:nwa/sysinfo  | SAP Login Pages |
+| intitle:"Smart Network Application"  | cisco RECON |
 
 *Author: Javier Bernardo*
 
