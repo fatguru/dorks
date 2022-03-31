@@ -19,6 +19,7 @@
 | inurl:smb/web/view   | Plesk Login pages |
 | inurl:auth/realms   | SSO Login pages |
 | inurl:nav_to.do  | Service Now Login Pages |
+| inurl:nwa/sysinfo  | SAP Login Pages |
 
 *Author: Javier Bernardo*
 
