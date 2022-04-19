@@ -9,7 +9,7 @@
 | site:notion.so + keyword    | Juicy Information |
 | site:notes.io + keyword     | Juicy Information |
 | site:hackmd.io + keyword    | Juicy Information |
-| inurl:orgId=1  | Exposed Granafa Dashboards |
+| inurl:orgId=1  | Exposed Grafana Dashboards |
 | site:s3.amazonaws.com + keyword   | Exposed Files on Amazon S3 buckets |
 | site:blob.core.windows.net + keyword   | Exposed Files on Azure Storage blobs |
 | inurl:app.powerbi.com   | Exposed PowerBi Panels |
@@ -22,6 +22,7 @@
 | inurl:nwa/sysinfo  | SAP Login Pages |
 | intitle:"Smart Network Application"  | Cisco RECON |
 | inurl:SAAS/auth/login | VMware RCE by SSTI - CVE-2022-22954  |
+| site:snapshot.raintank.io | Grafana Public Snapshots |
 
 *Author: Javier Bernardo*
 
