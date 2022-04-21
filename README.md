@@ -21,7 +21,7 @@
 | inurl:nav_to.do  | Service Now Login Pages |
 | inurl:nwa/sysinfo  | SAP Login Pages |
 | intitle:"Smart Network Application"  | Cisco RECON |
-| inurl:SAAS/auth/login | VMware RCE by SSTI - CVE-2022-22954  |
+| inurl:SAAS/auth/login | VMware Workspace ONE Access RCE by SSTI - CVE-2022-22954  |
 | site:snapshot.raintank.io | Grafana Public Snapshots |
 
 *Author: Javier Bernardo*
