@@ -23,6 +23,7 @@
 | intitle:"Smart Network Application"  | Cisco RECON |
 | inurl:SAAS/auth/login | VMware Workspace ONE Access RCE by SSTI - CVE-2022-22954  |
 | site:snapshot.raintank.io | Grafana Public Snapshots |
+| inurl:administrator/manifests | CMS Files and Directory Listings |
 
 *Author: Javier Bernardo*
 
