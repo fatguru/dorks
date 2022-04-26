@@ -26,7 +26,6 @@
 | inurl:administrator/manifests | CMS Files and Directory Listings |
 | intitle:"Carestream Vue Motion" | Health Systems Login pages (x) |
 | intitle:"VM VIRTUAL FILM HTML5" | Health Systems Login pages (x) |
-| inurl:viewer/index.php/pacientes | Health Systems Login pages (x) |
 
 
 *Author: Javier Bernardo*
