@@ -24,6 +24,10 @@
 | inurl:SAAS/auth/login | VMware Workspace ONE Access RCE by SSTI - CVE-2022-22954  |
 | site:snapshot.raintank.io | Grafana Public Snapshots |
 | inurl:administrator/manifests | CMS Files and Directory Listings |
+| intitle:"Carestream Vue Motion" | Health Systems Login pages | (*) presented in Ekoparty 2021 (*)
+| intitle:"VM VIRTUAL FILM HTML5" | Health Systems Login pages | (*) presented in Ekoparty 2021 (*)
+| inurl:viewer/index.php/pacientes | Health Systems Login pages | (*) presented in Ekoparty 2021 (*)
+
 
 *Author: Javier Bernardo*
 
