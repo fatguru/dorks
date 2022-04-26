@@ -26,7 +26,7 @@
 | inurl:administrator/manifests | CMS Files and Directory Listings |
 | intitle:"Carestream Vue Motion" | Health Systems Login pages (x) |
 | intitle:"VM VIRTUAL FILM HTML5" | Health Systems Login pages (x) |
-
+| inurl:wp-includes/sodium_compat/src | Wordpress Dir listing |
 
 *Author: Javier Bernardo*
 
