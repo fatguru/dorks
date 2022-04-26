@@ -31,7 +31,7 @@
 
 *Author: Javier Bernardo*
 
-*X Presented at Ekoparty 2021* 
+*(x) Presented at Ekoparty 2021* 
 
 ------------------------------------------------------------------------------
 
