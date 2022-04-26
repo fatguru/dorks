@@ -29,8 +29,9 @@
 | inurl:viewer/index.php/pacientes | Health Systems Login pages (x) |
 
 
-*Author: Javier Bernardo
-(x) presented in Ekoparty 2021*
+*Author: Javier Bernardo*
+
+*X Presented at Ekoparty 2021* 
 
 ------------------------------------------------------------------------------
 
