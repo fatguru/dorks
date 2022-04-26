@@ -30,8 +30,7 @@
 
 
 *Author: Javier Bernardo*
-
-(x) presented in Ekoparty 2021
+* (x) presented in Ekoparty 2021 *
 ------------------------------------------------------------------------------
 
 
