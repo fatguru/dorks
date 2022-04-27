@@ -28,6 +28,8 @@
 | intitle:"VM VIRTUAL FILM HTML5" | Health Systems Login pages (x) |
 | inurl:wp-includes/sodium_compat/src | Wordpress Dir listing |
 | inurl:memoqweb | Memoqweb Login Pages |
+| inurl:"auth/login?from_page=" | WatchGuard Login Pages |
+| intitle:"WatchGuard Access Portal" | WatchGuard Login Pages |
 
 *Author: Javier Bernardo*
 
