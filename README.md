@@ -30,7 +30,6 @@
 | inurl:memoqweb | Memoqweb Login Pages |
 | inurl:"auth/login?from_page=" | WatchGuard Login Pages |
 | intitle:"WatchGuard Access Portal" | WatchGuard Login Pages |
-| inurl:sslvpn_logon.shtml | WatchGuard Login Pages |
 
 *Author: Javier Bernardo*
 
