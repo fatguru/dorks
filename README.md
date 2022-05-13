@@ -36,6 +36,10 @@
 
 *(x) Presented at Ekoparty 2021* 
 
+| Shodan Favicon| Details       |
+| ------------- |-------------|
+| http.favicon.hash:41459981 | Epirus - Blockchain Explorer |
+
 ------------------------------------------------------------------------------
 
 
