@@ -30,7 +30,7 @@
 | inurl:memoqweb | Memoqweb Login Pages |
 | inurl:"auth/login?from_page=" | WatchGuard Login Pages |
 | intitle:"WatchGuard Access Portal" | WatchGuard Login Pages |
-| intitle:"epirus | blockchain explorer - web3 labs" network | Epirus Blockchain Explorer | (http.favicon.hash:41459981)
+| intitle:"epirus \| blockchain explorer - web3 labs" network | Epirus Blockchain Explorer | (http.favicon.hash:41459981)
 
 *Author: Javier Bernardo*
 
