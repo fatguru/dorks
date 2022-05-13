@@ -34,7 +34,7 @@
 
 *Author: Javier Bernardo*
 
-*(x) Presented at Ekoparty 2021* https://www.ekoparty.org/ | https://www.youtube.com/watch?v=qOs1SscBroU
+*(x) Presented at Ekoparty 2021* | https://www.ekoparty.org/ >> https://www.youtube.com/watch?v=qOs1SscBroU
 
 ------------------------------------------------------------------------------
 
