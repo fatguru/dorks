@@ -34,11 +34,7 @@
 
 *Author: Javier Bernardo*
 
-*(x) Presented at Ekoparty 2021* 
-
-| Shodan Favicon| Details       |
-| ------------- |-------------|
-| http.favicon.hash:41459981 | Epirus - Blockchain Explorer |
+*(x) Presented at Ekoparty 2021* https://www.ekoparty.org/ | https://www.youtube.com/watch?v=qOs1SscBroU
 
 ------------------------------------------------------------------------------
 
