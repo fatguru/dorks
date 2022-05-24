@@ -31,6 +31,7 @@
 | inurl:"auth/login?from_page=" | WatchGuard Login Pages |
 | intitle:"WatchGuard Access Portal" | WatchGuard Login Pages |
 | intitle:"epirus \| blockchain explorer - web3 labs" network | Epirus Blockchain Explorer | (http.favicon.hash:41459981)
+| inurl:application.wadl | Juicy Information |
 
 *Author: Javier Bernardo*
 
