@@ -43,6 +43,7 @@
 | Dork          | Details       |
 | ------------- |-------------|
 | site:scribd.com + keyword    | Juicy Information |
+| site:genial.ly + keyword     | Juicy Information |
 
 *Author: Gabriel Tarsia*
 
