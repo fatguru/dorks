@@ -5,6 +5,7 @@
 
 | Dork          | Details       |
 | ------------- |-------------|
+| intitle:"GlobalProtect Portal"    | Juicy Information for PAN-OS Critical 0day CVE-2024-3400|
 | site:notion.so + keyword    | Juicy Information |
 | site:notes.io + keyword     | Juicy Information |
 | site:hackmd.io + keyword    | Juicy Information |
