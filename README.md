@@ -1,6 +1,7 @@
 # Dorks
 ### Here are some cool unpublished Dorks
 The internet hides its secrets in plain sight. Dorks are the lens to uncover them. Use them wisely.
+
 When GHDB pauses, curiosity doesn’t. Keep exploring, keep discovering. The hunt for knowledge never ends!
 
 ------------------------------------------------------------------------------
