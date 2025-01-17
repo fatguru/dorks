@@ -1,10 +1,13 @@
 # Dorks
-### Here are some cool unpublished Dorks 
+### Here are some cool unpublished Dorks
+The internet hides its secrets in plain sight. Dorks are the lens to uncover them. Use them wisely
+When GHDB pauses, curiosity doesn’t. Keep exploring, keep discovering. The hunt for knowledge never ends!
 
 ------------------------------------------------------------------------------
 
 | Dork          | Details       |
 | ------------- |-------------|
+| inurl:notepad.link + keyword    | Sensitive Information disclosure / Juicy Info|
 | intitle:"GlobalProtect Portal"    | Juicy Information for PAN-OS 0day CVE-2024-3400|
 | site:notion.so + keyword    | Juicy Information |
 | site:notes.io + keyword     | Juicy Information |
